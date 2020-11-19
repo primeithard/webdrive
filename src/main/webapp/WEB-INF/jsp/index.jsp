@@ -14,10 +14,9 @@
 	                        <p style="font-size: 18px; color: black">WebUI для загрузки файлов на GDrive</p>
 				<p style="font-size: 15px; color: black">Поддерживает только прямые ссылки</p> 
 				<p style="font-size: 15px; color: black">Без отображения файлов и папок на Вашем GDrive</p>
-				<p style="font-size: 15px; color: black">Без ограничений на объём загружаемых файлов</p>
-				<p style="font-size: 15px; color: black">We do not save any of your data and once server restarts auth codes are cleared from our database too.</p><br>
+				<p style="font-size: 15px; color: black">Без ограничений на объём загружаемых файлов</p><br>
+				<p style="font-size: 18px; color: green"><a href='https://ttttt.me/IThard'>Telegram channel ITHard</a></p><br>
 				<link rel='stylesheet' href='https://d33wubrfki0l68.cloudfront.net/css/ba9da532d588c7d5b6cc3fbc52d26da7538064c8/style.css'/>
-				<canvas></canvas>
 				<script type='text/javascript' src='https://d33wubrfki0l68.cloudfront.net/js/0332cdafb1bac19d815d6030f67ca9bdb56fe27a/script.js'></script>
 	                        </c:when>
                         	<c:otherwise>	                         
