@@ -54,6 +54,11 @@
     width: 32px;
     z-index: 0;
     }</style>
+    
+    <!-- Pixel Code for http://popup.ithard.ru/ -->
+<script async src="http://popup.ithard.ru/pixel/tdozt6n70rio2n125lvv2px6xgp5uub5"></script>
+<!-- END Pixel Code -->
+    
 </head>
 <body>
 <div class="page home-page">
